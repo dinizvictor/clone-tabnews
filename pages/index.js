@@ -1,6 +1,6 @@
 function Home(){
 
-    return <h1>Um dia serei sênior!</h1>
+    return <h1>Um dia seniores seremos!</h1>
 
 }
 
